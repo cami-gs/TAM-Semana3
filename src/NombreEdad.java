@@ -44,4 +44,4 @@ public static void main(String[] args) {
     sc.close();
 } // Cierre del método main
 
-} // Cierre de la clase NombreEdad
+} // Cierre de la clase: NombreEdad
