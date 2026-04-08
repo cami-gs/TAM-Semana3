@@ -6,7 +6,7 @@ Este proyecto corresponde a la actividad formativa de la Semana 3 del ramo Talle
 
 - Sistema operativo: Windows 11 ProJava Development Kit (JDK 8) instalado y configurado en el PATHSímbolo del sistema (CMD) para compilar y ejecutar los programasCuenta en GitHub para documentación y control de versiones
 
-## Cómo compilar y ejecutar
+## ¿Cómo compilar y ejecutar?
 
 1. Abrir CMD y moverse a la carpeta src: cd %USERPROFILE%\Desktop\TAM_Semana3\src2. Compilar los programas: javac VehiculoDatos.java javac NombreEdad.java3. Ejecutar los programas: java VehiculoDatos java NombreEdad
 
@@ -32,12 +32,12 @@ Este proyecto corresponde a la actividad formativa de la Semana 3 del ramo Talle
 
 | Tarea | Fecha límite |
 | --- | --- |
-| Instalación JDK y configuración PATH | 02-09-2025 |
-| Creación de programas en Java | 03-09-2025 |
-| Compilación y ejecución en CMD | 03-09-2025 |
-| Documentación de código línea a línea | 04-09-2025 |
-| Elaboración del informe final | 05-09-2025 |
-| Subida de entregables a plataforma | 06-09-2025 |
+| Instalación JDK y configuración PATH | 02-09-2026 |
+| Creación de programas en Java | 03-09-2026 |
+| Compilación y ejecución en CMD | 03-09-2026 |
+| Documentación de código línea a línea | 04-09-2026 |
+| Elaboración del informe final | 05-09-2026 |
+| Subida de entregables a plataforma | 06-09-2026 |
 
 ## Evidencias
 
